@@ -48,6 +48,6 @@ You can view the working project on CodeSandbox after import:
 
 ## Questions
 If you have any questions, please contact me:
-GitHub: rhunter27
-Email: ravenhunter207@gmail.com
+- GitHub: http://github.com/rhunter27
+- Email: ravenhunter207@gmail.com
 
